@@ -1,0 +1,7 @@
+Written by Mehmet Alican Gork
+
+To run:
+	ruby main.rb
+Watch the instructions and enter inputs accordingly.
+Negative stats are accepted so long as they're not a part of HP stat.
+You can use negative stats to make your primary attribute stronger.
